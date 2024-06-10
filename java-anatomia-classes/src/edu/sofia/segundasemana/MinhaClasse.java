@@ -1,3 +1,4 @@
+package edu.sofia.segundasemana;
 // Aula 1 - Anatomia de Classes 
 public class MinhaClasse {
     

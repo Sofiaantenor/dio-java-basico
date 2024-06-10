@@ -1,3 +1,5 @@
+package edu.sofia.primeirasemana;
+
 // Aula 4 - Anatomia de Classes 
 public class BoletimEstudantil {
     public static void main(String[] args){
